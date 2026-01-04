@@ -17,7 +17,6 @@ MAIN
 └── EXIT
 ```
 
----
 
 ## Exposure Settings
 
@@ -34,7 +33,6 @@ MAIN
 - Adjust values as needed
 - Select **RETURN** to go back to main menu
 
----
 
 ## Auto White Balance (AWB)
 
@@ -53,7 +51,6 @@ MAIN
 - Confirm mode setting
 - Select **RETURN** to go back to main menu
 
----
 
 ## Day/Night Mode
 
@@ -81,7 +78,6 @@ MAIN
 - Select **MODE** to change setting
 - Select **RETURN** to go back to main menu
 
----
 
 ## Image Enhancement Settings
 
@@ -128,7 +124,6 @@ MAIN
 - Confirm changes
 - Select **RETURN** to go back to main menu
 
----
 
 ## Video Settings
 
@@ -157,7 +152,6 @@ MAIN
 - Change to **PAL** for maximum pixel count and detail
 - Select **RETURN** to go back to main menu
 
----
 
 ## Quick Reference:  Complete Settings Summary
 
@@ -187,7 +181,6 @@ VIDEO SETTINGS
 └── STANDARD: PAL ✓
 ```
 
----
 
 ## Saving Your Settings
 
@@ -204,7 +197,6 @@ VIDEO SETTINGS
 2. Select **EXIT** (without saving)
 3. Changes will be lost
 
----
 
 ## Reset to Factory Defaults
 
@@ -249,7 +241,6 @@ VIDEO SETTINGS
 - ❌ Don't use mismatched video standards between camera and transmitter
 - ❌ Don't forget to press SAVE&EXIT after making changes
 
----
 
 ## Recommended Profiles by Use Case
 
@@ -293,15 +284,15 @@ STANDARD: PAL
 DAY/NIGHT:  AUTO
 ```
 
----
+
 
 ## Related Documentation
 
-- [Camera Specifications](./SPECS.md)
-- [Installation Guide](./INSTALLATION.md)
-- [Troubleshooting Guide](./TROUBLESHOOTING.md)
+- [Camera Website](https://www.caddxfpv.com/products/caddx-ant-analog-camera)
+- [Ant Tune from another guide](https://www.ericbrasseur.org/caddxfpv_ant_tuning.html?i=1)
+- [Further Camera Guidance](https://oscarliang.com/fpv-camera-settings/)
 
----
+
 
 **Last Updated**:  January 4, 2026  
 **Camera Model**:  Caddx FPV Ant  
@@ -309,4 +300,4 @@ DAY/NIGHT:  AUTO
 
 
 
-Thanks for reading aristides’s Substack! Subscribe for free to receive new posts and support my work.
+Thanks for reading! If you found this useful, Follow me on Instagram [@Aristides.FPV](https://www.instagram.com/aristides.fpv/)
