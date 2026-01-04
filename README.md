@@ -1,6 +1,8 @@
 # Caddx FPV Ant Camera - Menu Settings & Configuration
 
-Complete menu structure and recommended settings for the Caddx FPV Ant analog FPV camera.
+Complete menu structure and recommended settings for the Caddx FPV Ant analog FPV camera. The goal of this post is to align the camera settings for the CADDX Ant Analog FPV micro camera, Suitable for tiny whoops and lightweight analog FPV builds. This camera comes with an OSD adjustment board that can be connected directly to the camera to enable this settings menu.
+
+![Camera OSD Board](https://m.media-amazon.com/images/I/51GrZW6DVXL._AC_SL1500_.jpg)
 
 ## Main Menu
 
