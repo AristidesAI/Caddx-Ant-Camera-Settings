@@ -212,7 +212,6 @@ VIDEO SETTINGS
 
 > ⚠️ **WARNING**:  Resetting will erase all your custom configurations.  Only use if experiencing persistent issues.
 
----
 
 ## Troubleshooting
 
@@ -226,27 +225,10 @@ VIDEO SETTINGS
 | No signal to VTx | Verify VIDEO STANDARD (PAL/NTSC) matches your transmitter and region |
 | Poor night flying performance | Set DAY/NIGHT to AUTO, increase BRIGHTNESS, increase 2DNR to 8-10 |
 
----
-
-## Best Practices
-
-### ✅ Do's
-- ✅ Save settings after each configuration session
-- ✅ Test one setting change at a time
-- ✅ Allow 10+ seconds for AUTO modes to adjust to new lighting
-- ✅ Verify transmitter compatibility with your video STANDARD choice
-- ✅ Document your optimal settings for different flying locations
-
-### ❌ Don'ts
-- ❌ Don't reset without saving your current configuration first
-- ❌ Don't change multiple settings simultaneously (hard to identify which helped)
-- ❌ Don't use mismatched video standards between camera and transmitter
-- ❌ Don't forget to press SAVE&EXIT after making changes
-
 
 ## Recommended Profiles by Use Case
 
-### 🏁 Outdoor Racing (Bright Daylight)
+### Outdoor Racing (Bright Daylight)
 ```
 BRIGHTNESS: 14-15
 BLC: 4-5
@@ -256,7 +238,7 @@ STANDARD: PAL
 DAY/NIGHT: COLOR
 ```
 
-### 🎬 Freestyle (Mixed Lighting)
+### Freestyle (Mixed Lighting)
 ```
 BRIGHTNESS: 15
 BLC: 6
@@ -266,7 +248,7 @@ STANDARD: PAL
 DAY/NIGHT: AUTO
 ```
 
-### 🌙 Night Flying (Low Light)
+### Night Flying (Low Light)
 ```
 BRIGHTNESS: 16-17
 BLC: 6
@@ -276,7 +258,7 @@ STANDARD: PAL
 DAY/NIGHT: B/W
 ```
 
-### 🏠 Indoor (Artificial Lighting)
+### Indoor (Artificial Lighting)
 ```
 BRIGHTNESS: 15
 BLC: 4
